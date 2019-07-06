@@ -7,3 +7,7 @@ A short script I wrote in a time of desperate need. The script takes a txt file 
   1. `init.py` - Contains the script
   2. `contacts.csv` - Google contact csv template
   3. `contacts.txt` - Txt file template to convert to csv
+  
+## Usage
+
+Simply enter the paths to your txt file and the csv file template in the appropriately named variables.
