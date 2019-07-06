@@ -5,5 +5,5 @@ A short script I wrote in a time of desperate need. The script takes a txt file 
 ## Files
   
   1. `init.py` - Contains the script
-  2. `contact.csv` - Google contact csv template
-  3. `contact.txt` - Txt file template to convert to csv
+  2. `contacts.csv` - Google contact csv template
+  3. `contacts.txt` - Txt file template to convert to csv
